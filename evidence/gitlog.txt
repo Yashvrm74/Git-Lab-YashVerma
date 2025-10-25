@@ -1,0 +1,9 @@
+* a698b8d (HEAD -> main, origin/main, origin/HEAD) docs: add release notes for v0.1.0
+*   e277af1 (tag: v0.1.0) fix(readme): resolve conflict between main (Project: A) and feat/profile (Project: B) Combined changes: set README project line to 'Project: A & B'.
+|\  
+| * 90fd848 (origin/feat/profile, feat/profile) docs: set project to B on feat/profile
+| * e90a534 feat: add profile file
+| * c139428 chore: add contributors list
+* | 6085ea3 docs: set project to A on main
+|/  
+* 4044269 docs: add project readme
